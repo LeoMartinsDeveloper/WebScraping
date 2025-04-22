@@ -8,9 +8,9 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.By;
 import java.util.HashMap; //para criar mapa
 import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 import org.openqa.selenium.WebElement; //para indicar onde clicar (elementos da pagina como botoes e etc)
 import java.time.Duration;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.util.Collections;
 
